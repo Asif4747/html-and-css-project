@@ -1,0 +1,29 @@
+body{
+   background: url("../pic/bg10.jpg");
+}
+
+.regform{
+   
+  width: 250px;
+  background-color:rgba(0,0,0,.8);
+  padding: 10px 20px 30px;
+ 
+  margin: 200px;
+  color: white;
+
+}
+.regform h2{
+  text-align:center;
+  color: #C4A287;
+} 
+.input input{
+  width: 90%;
+  font-size: 1em;
+}
+.btn{
+     text-align: center;
+
+}
+button{
+   background-color:#06D6A0;
+}
